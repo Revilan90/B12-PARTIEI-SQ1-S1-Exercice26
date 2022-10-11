@@ -10,6 +10,7 @@ namespace B12_PARTIEI_SQ1_S1_Exercice26
     {
         static void Main(string[] args)
         {
+            //cette version est issue de la branche
             int nombre = -1;
             string heures, minutes, secondes, resultat;
             do
